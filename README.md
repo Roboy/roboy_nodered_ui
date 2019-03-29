@@ -1,4 +1,4 @@
 # roboy_nodered_ui
 Depends:
-- node-red-contrib-ui
+- node-red-dashboard
 - node-red-contrib-ros
