@@ -2,6 +2,8 @@
 Depends:
 - node-red-dashboard
 - node-red-contrib-ros
+- node-red-contrib-python3-function
+- node-red-node-ui-list
 
 
 For node-red autostart
