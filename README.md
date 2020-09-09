@@ -8,6 +8,7 @@ Depends:
 
 For node-red autostart
 ```
+cd roboy_nodered_ui
 sudo npm install -g pm2
 which node-red
 pm2 start ecosystem.config.js
