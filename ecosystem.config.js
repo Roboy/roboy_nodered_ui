@@ -12,8 +12,8 @@ module.exports = {
     env: {
       NODE_ENV: 'development',
       GOOGLE_APPLICATION_CREDENTIALS: '/home/roboy/keys.json',
-      BAIDU_TTS_API_KEY: 'MdALjXbsfTk0iIFUYWbIFAlR',
-      BAIDU_TTS_SECRET_KEY: 'OzGpKbrYh5H7978zRkUzV7BseY9PkGws'
+      BAIDU_TTS_API_KEY: '0',
+      BAIDU_TTS_SECRET_KEY: '0'
     },
     env_production: {
       NODE_ENV: 'production'
