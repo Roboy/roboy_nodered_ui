@@ -1,10 +1,7 @@
 # roboy_nodered_ui
-Depends:
-- node-red-dashboard
-- node-red-contrib-ros
-- node-red-contrib-python3-function
-- node-red-node-ui-list
-
+```
+cd ~/.node-red
+npm install node-red-dashboard node-red-contrib-ros node-red-contrib-python3-function node-red-node-ui-list
 
 For node-red autostart
 ```
